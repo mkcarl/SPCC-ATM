@@ -1,0 +1,5 @@
+12345,Hamza,Yusuf,2338
+23456,Naom,Chomsky,250
+34567,Angela,Merkel,500
+45678,Tim,Lee,150
+11111,Mark,Chan,100
