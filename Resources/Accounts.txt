@@ -1,4 +1,4 @@
-12345,Hamza,Yusuf,3050
+12345,Hamza,Yusuf,3000
 23456,Naom,Chomsky,250
 34567,Angela,Merkel,500
 45678,Tim,Lee,150
